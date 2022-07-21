@@ -1,1 +1,1 @@
-This is an example for the GitHub short course.
+A change to the example file.
